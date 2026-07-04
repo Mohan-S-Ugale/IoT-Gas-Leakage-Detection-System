@@ -128,13 +128,14 @@ IoT-Gas-Leakage-Detection-System
   <img src="Circuit_Diagram/Circuit_Diagram.jpg" width="700">
 </p>
 
-
+---
 ### Arduino UNO Circuit Board
 
 <p align="center">
   <img src="Images/Arduino_UNO.jpg" width="700">
 </p>
 
+---
 ### MQ2 Sensor
 
 <p align="center">
@@ -143,8 +144,6 @@ IoT-Gas-Leakage-Detection-System
 
 ---
 
-
----
 
 ## 🚀 Applications
 
