@@ -90,7 +90,7 @@ IoT-Gas-Leakage-Detection-System
 │   └── Gas_Leakage_Detection.ino
 │
 ├── Circuit_Diagram/
-│   ├── Wiring_Diagram.png
+│   └── Wiring_Diagram.png
 │   
 ├── Documentation/
 │   └── IoT_Mini_Project_Report.pdf
@@ -130,6 +130,13 @@ IoT-Gas-Leakage-Detection-System
 <p align="center">
   <img src="Images/Arduino_UNO.jpg" width="700">
 </p>
+
+### MQ2 Sensor
+
+<p align="center">
+  <img src="Images/MQ2_Sensor.jpg" width="700">
+</p>
+
 ---
 
 
