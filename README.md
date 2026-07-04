@@ -90,9 +90,8 @@ IoT-Gas-Leakage-Detection-System
 │   └── Gas_Leakage_Detection.ino
 │
 ├── Circuit_Diagram/
-│   ├── Circuit_Diagram.png
-│   └── Wiring_Diagram.png
-│
+│   ├── Wiring_Diagram.png
+│   
 ├── Documentation/
 │   └── IoT_Mini_Project_Report.pdf
 │
@@ -127,11 +126,6 @@ IoT-Gas-Leakage-Detection-System
 
 ---
 
-### Working Prototype
-
-<p align="center">
-  <img src="Images/Working.jpg" width="650">
-</p>
 
 ---
 
