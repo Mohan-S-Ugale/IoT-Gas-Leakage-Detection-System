@@ -121,7 +121,7 @@ IoT-Gas-Leakage-Detection-System
 ### Circuit Diagram
 
 <p align="center">
-  <img src="Circuit_Diagram/Circuit_Diagram.png" width="700">
+  <img src="Circuit_Diagram/Circuit_Diagram.jpg" width="700">
 </p>
 
 ---
